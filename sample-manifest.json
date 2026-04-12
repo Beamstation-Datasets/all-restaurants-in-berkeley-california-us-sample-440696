@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2f14c399-e877-4fd5-a2cd-b4c7b4d707bc",
+  "id_short": 440696,
+  "published_at": "2026-04-12T07:58:45Z",
+  "repo_name": "all-restaurants-in-berkeley-california-us-sample-440696",
+  "sample_asset_name": "beamstation_440696_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/440696/beamstation_440696_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "bd8a2378fd4e055c385dc02f8ab7bb77c1bb16df603c36bee74a774b6fb82058",
+  "sample_size_bytes": 115383,
+  "total_records": 344
+}
