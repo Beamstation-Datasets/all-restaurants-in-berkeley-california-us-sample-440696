@@ -1,6 +1,6 @@
 # All Restaurants in Berkeley, California, US
 
-> Free BeamStation sample export with 42 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `440696` |
 | Location | Berkeley |
 | Category | Restaurants |
-| Full dataset size | 421 records |
-| Free sample size | 42 records (9.98%) |
-| Last export | 2026-04-14T13:28:10.064973+00:00 |
+| Full dataset size | 330 records |
+| Free sample size | 33 records (10.0%) |
+| Last export | 2026-04-21T14:28:19.977985+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-berkeley-california-us-sample-440696/releases/download/sample-latest/beamstation_440696_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
