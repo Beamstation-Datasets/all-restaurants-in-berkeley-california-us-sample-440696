@@ -9,9 +9,9 @@
 | Dataset ID | `440696` |
 | Location | Berkeley |
 | Category | Restaurants |
-| Full dataset size | 451 records |
-| Free sample size | 45 records (9.98%) |
-| Last export | 2026-04-28T15:27:14.867353+00:00 |
+| Full dataset size | 459 records |
+| Free sample size | 45 records (9.8%) |
+| Last export | 2026-05-06T09:11:59.188618+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-berkeley-california-us-sample-440696/releases/download/sample-latest/beamstation_440696_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
