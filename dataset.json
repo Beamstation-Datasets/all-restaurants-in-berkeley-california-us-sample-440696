@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Berkeley, California with a population of over 124k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Berkeley, California, US",
-  "export_job_id": "d5c45eea-028a-4ece-861d-a43dd4173e46",
+  "export_job_id": "90158f3b-f7cf-4c4b-bce2-4a9afa0e91cc",
   "github_org": "Beamstation-Datasets",
   "id_short": 440696,
   "location_name": "Berkeley",
   "location_type": "city",
   "repo_name": "all-restaurants-in-berkeley-california-us-sample-440696",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/440696/beamstation_440696_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.98,
+  "sample_pct": 9.8,
   "sample_records": 45,
-  "sample_sha256": "b6dbab0a89c96f6f72712b0fb4e6ff5f470a2153167ee5ab8c6bc4c3bddc9930",
-  "sample_size_bytes": 165077,
-  "total_records": 451,
-  "updated_at": "2026-04-28T15:27:14.867353+00:00"
+  "sample_sha256": "e71a36fa350e6f8dc874bea74d6a229591ad6bbd020964f10af623407d241565",
+  "sample_size_bytes": 182291,
+  "total_records": 459,
+  "updated_at": "2026-05-06T09:11:59.188618+00:00"
 }
